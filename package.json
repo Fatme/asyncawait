@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "bluebird": "^2.10.0",
-    "fibers": "^1.0.6",
+    "fibers": "https://github.com/icenium/node-fibers/tarball/v1.0.6.2",
     "lodash": "v2.4.1"
   },
   "devDependencies": {
